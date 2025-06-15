@@ -1,0 +1,54 @@
+body {
+  font-family: Comic Sans MS, cursive, sans-serif;
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+  color: #333;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+input {
+  font-size: 1.2em;
+  padding: 10px;
+  border: 2px solid #fff;
+  border-radius: 8px;
+}
+
+button {
+  font-size: 1.2em;
+  padding: 10px 20px;
+  background-color: #ff6f91;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #ff477e;
+}
+
+#result {
+  font-size: 2em;
+  margin-top: 30px;
+}
+
+#catMeme {
+  margin-top: 30px;
+}
+
+#catMeme img {
+  max-width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
